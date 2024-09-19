@@ -8,5 +8,9 @@
    <depend package="osg" optional="1" />
    <depend package="qt4" optional="1" />
    <depend package="qt4-opengl" optional="1"/>
+  <!-- qt5 version dependencies -->
+   <depend package="qt5" optional="1" />
+   <depend package="qt5-opengl" optional="1" />
+
     <tags>stable</tags>
 </package>
